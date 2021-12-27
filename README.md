@@ -6,7 +6,7 @@ Resolução da lista de exercícios [python brasil](https://wiki.python.org.br/E
 
 Foram utilizados para o desenvolvimento dessa lista de exercícios os seguintes itens:
 
-:small_blue_diamond: IDE Eclipse 2020-03
+:small_blue_diamond: IDE Eclipse 2020-03<br>
 :small_blue_diamond: Java JDK 8.261 / JRE 8.301
 
 ## :fist_right::fist_left: Contribuindo
